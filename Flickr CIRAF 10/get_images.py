@@ -1,5 +1,5 @@
 #https://towardsdatascience.com/how-to-use-flickr-api-to-collect-data-for-deep-learning-experiments-209b55a09628
-
+# run the code for example: python flickrGetUrl.py airplane 100
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 ## run
