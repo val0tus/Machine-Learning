@@ -44,8 +44,6 @@ https://github.com/corochann/deep-learning-tutorial-with-chainer/blob/master/src
 
 https://www.kaggle.com/lgmoneda/from-image-files-to-numpy-arrays
 
-Reading the dataset from GitHub
-
 https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
 
 http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130
