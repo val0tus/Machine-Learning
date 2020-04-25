@@ -1,6 +1,6 @@
 Context
 
-These datasets were created for a Artificial Intelligence and Machine Learning IT00DP82-3002 course work. It was an opportunity to test Deep Learning capabilities for photo classification. The idea is to teach the model using CIRAF-10 and validate the model with photos extracted from Flickr.
+These datasets were created for Metropolia University of Applied Sciences Artificial Intelligence and Machine Learning IT00DP82-3002 course work. It was an opportunity to test Deep Learning capabilities for photo classification. The idea is to teach the model using CIRAF-10 and validate the model with photos extracted from Flickr.
 
 Content
 
