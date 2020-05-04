@@ -31,7 +31,7 @@ Then run python get_images.py airplane.csv
 The codes are from: https://towardsdatascience.com/how-to-use-flickr-api-to-collect-data-for-deep-learning-experiments-209b55a09628
 
 
-3. the downloaded photos needs to be cropped and rezised to 32*32 pixels. At the same time files names are modified so that the file name starts with number indicating the classes and the "_" for example 0_airplane_1.jpg. The photos are saved as jpegs. You can use photo editing sofware such as Lightroom for the purpose.
+3. The downloaded photos needs to be cropped and rezised to 32*32 pixels. At the same time files names are modified so that the file name starts with number indicating the classes and the "_" for example 0_airplane_1.jpg. The photos are saved as jpegs. You can use photo editing sofware such as Lightroom for the purpose.
 
 
 4. Jpeg photos needs to changes to png files. Use jpg2png.py fo the purpose.The code is available from https://stackoverflow.com/questions/10759117/converting-jpg-images-to-png
